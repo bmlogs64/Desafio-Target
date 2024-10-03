@@ -1,0 +1,1 @@
+O valor da variável soma será de 77, é de se notar que o while começa já adicionando mais 1, se esse adicionasse mais um após a soma o resultado seria 66.

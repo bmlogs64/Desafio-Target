@@ -1,0 +1,11 @@
+A - O próximo número será 9, já que basicamente adiciona 2 ao número atual, 7 + 2 = 9.
+
+B - O próximo número será 128, já que basicamente multiplica por 2 o número atual, 64 * 2 = 128.
+
+C - O próximo número será 49, já que basicamente eleva ao quadrado número da sequência atual, 7^2 = 49.
+
+D - O próximo número será 100, já que basicamente é o quadrado do número do próximo número par da sequência, 10^2 = 100.
+
+E - O próximo número será 13, já que basicamente é o número atual somado ao número anterior a ele na sequência, 8+5 = 13.
+
+F - O próximo número será 200, já que basicamente é o próximo número que começa com a letra D.
